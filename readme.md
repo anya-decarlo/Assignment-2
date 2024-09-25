@@ -29,3 +29,7 @@
 
 
 [Official Python Website](https://www.python.org) 
+
+
+![Screenshot of Squidpy Installation](photo.jpeg)
+
