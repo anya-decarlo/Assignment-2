@@ -9,7 +9,7 @@
 * finds computer science fun and enjoyable
  
 
-###_Goals For Course_
+### _Goals For Course_
 
 * become a better programmer
  
@@ -19,7 +19,7 @@
 
 *develop fluency in Github and commandline 
 
-###_Interests in Course_
+### _Interests in Course_
 
 * developing proteomic algorithms
  
