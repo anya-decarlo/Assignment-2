@@ -17,7 +17,7 @@
 
 * develop fluency in Python  
 
-*develop fluency in Github and commandline 
+* develop fluency in Github and commandline 
 
 ### _Interests in Course_
 
