@@ -31,7 +31,7 @@
 [Official Python Website](https://www.python.org) 
 
 
-![Screenshot of Squidpy Installation](photo.jpeg)
+![Screenshot of Squidpy Installation](photo.png)
 
 
-![Meme] (meme.jpeg)
+![Meme](meme.jpeg)
