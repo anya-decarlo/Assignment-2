@@ -10,6 +10,7 @@
  
 
 ###_Goals For Course_
+
 * become a better programmer
  
 * learn about novel research using Python
